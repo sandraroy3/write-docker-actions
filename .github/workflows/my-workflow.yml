@@ -13,5 +13,6 @@ jobs:
         with :
            firstGreeting: "Learning Lab User"
            secondGreeting: "Github Action User"
-           thirdGreeting: "new user"
+           thirdGreeting: "third user"
+           fourthGreeting: "new user"
       
