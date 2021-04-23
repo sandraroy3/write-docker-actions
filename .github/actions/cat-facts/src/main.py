@@ -2,6 +2,7 @@ import requests
 import random
 import sys
 
+
 # Make an HTTP GET request to the cat-fact API
 cat_url = "https://cat-fact.herokuapp.com/facts"
 r = requests.get(cat_url)
